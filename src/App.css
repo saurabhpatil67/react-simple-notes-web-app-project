@@ -1,0 +1,11 @@
+#scrollRemove::-webkit-scrollbar{
+   display: none;
+}
+
+#btn{
+    box-shadow: 1px 2px 5px 1px rgba(0, 3, 23, 0.713);
+}
+
+/* #notePng{
+    box-shadow: 1px 7px 10px 1px rgba(0, 0, 0, 0.418);
+} */
