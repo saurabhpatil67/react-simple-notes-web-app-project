@@ -37,10 +37,10 @@ This project is focused on practicing important React concepts:
 ## 📸 Screenshots
 
 ### 📌 Image 1  
-<img src="./public/image/noteApp.png" alt="Notes App Screenshot"/>
+<img src="./public/image/note.png" alt="Notes App Screenshot"/>
 
 ### 📌 Image 2
-<img src="./public/image/note.png" alt="Note Screenshot"/>
+<img src="./public/image/noteApp.png" alt="Note Screenshot"/>
 
 ---
 
