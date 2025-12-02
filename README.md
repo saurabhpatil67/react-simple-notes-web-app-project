@@ -1,16 +1,59 @@
-# React + Vite
+# 📝 React Notes App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and clean **Notes App** built with **React** and **Tailwind CSS**.  
+Users can add small notes with a title and description, and manage them in a minimal UI.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## React Compiler
+- Add new notes with **title** and **details**
+- Display notes in a clean, card-style layout
+- Delete notes easily
+- Responsive design using **Tailwind CSS**
+- Simple and beginner-friendly code structure
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🎯 Concepts Used in This Project
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+This project is focused on practicing important React concepts:
+
+- ✅ **Array with useState** – Store and manage the list of notes as an array in state  
+- ✅ **Destructuring** – Use object and array destructuring for cleaner code  
+- ✅ **Form Handling** – Handle form submission and prevent default reload  
+- ✅ **Two-way Binding** – Sync input fields with state using `value` and `onChange`
+
+---
+
+## 🛠️ Tech Stack
+
+- **React** (with Vite)
+- **Tailwind CSS**
+- **JavaScript (ES6+)**
+
+---
+
+## 📸 Screenshots
+
+### 📌 Image 1  
+<img src="./public/image/noteApp.png" alt="Notes App Screenshot"/>
+
+### 📌 Image 2
+<img src="./public/image/note.png" alt="Note Screenshot"/>
+
+---
+
+## 🌱 Future Improvements
+- Add edit feature
+- Add search functionality
+- Save notes in localStorage
+
+---
+
+## ⚙️ Installation
+
+1. Clone repo  
+2. npm install  
+3. npm run dev
+   
